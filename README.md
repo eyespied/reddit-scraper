@@ -7,4 +7,5 @@ A simple image and video scraper that I created to learn the concepts of Beautif
 ## How to use
 * Have Python 3.x installed
 * Download/Extract reddit-scraper
-* Run main.py
+* Arguments: --r sub-reddit name, --d save directory
+* Run main.exe from the command-line with the required arguments
